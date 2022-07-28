@@ -1,4 +1,3 @@
-
 def task(array):
     if isinstance(array, str):
         if array.isnumeric():
